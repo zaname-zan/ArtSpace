@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="hong1_title">1. The never-used shirt</string>
+    <string name="hong2_title">2. Mini bowling pins</string>
+    <string name="naz1_title">3. Brown, the alligator</string>
+    <string name="naz2_title">4. Brown, the flash drive</string>
+    <string name="kwan1_title">5. Boss\'s favourite pet</string>
+    <string name="kwan2_title">6. We never walk alone</string>
+    <string name="hong1_content_description">Hong 1</string>
+    <string name="hong2_content_description">Hong 2</string>
+    <string name="naz1_content_description">Naz 1</string>
+    <string name="naz2_content_description">Naz 2</string>
+    <string name="kwan1_content_description">Kwan 1</string>
+    <string name="kwan2_content_description">Kwan 2</string>
+    <string name="hong1_author">Hong</string>
+    <string name="hong2_author">Hong</string>
+    <string name="naz1_author">Naz</string>
+    <string name="naz2_author">Naz</string>
+    <string name="kwan1_author">Kwan</string>
+    <string name="kwan2_author">Kwan</string>
+    <string name="hong1_year">2024</string>
+    <string name="hong2_year">2023</string>
+    <string name="naz1_year">2025</string>
+    <string name="naz2_year">2020</string>
+    <string name="kwan1_year">2010</string>
+    <string name="kwan2_year">2025</string>
+</resources>
